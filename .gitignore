@@ -25,3 +25,6 @@ celerybeat-schedule
 deployments.json
 .DS_Store
 jsapp/fonts
+.virtualenv/
+.vscode/
+package-lock.json
